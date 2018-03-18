@@ -1,3 +1,4 @@
+#https://codefights.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
 def makeArrayConsecutive2(statues):
     result = 0 
     sorted_statues = sorted(statues)
